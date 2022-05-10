@@ -1,2 +1,10 @@
-# state-management-with-redux-toolkit
-The code samples for State management with Redux Toolkit by Balaji Hambeere, published by Amazon
+# State Management With Redux Toolkit Best Practices
+
+### The code samples for State management with  Redux Toolkit Best Practices by Balaji Hambeere will soon publish on Amazon.
+
+### If you want to learn how to build efficient & Complex React applications. This Book provides best practices and patterns for Managing the State in modern React Applications using Redux Toolkit.
+
+#
+
+
+![State Management With Redux Toolkit Best Practices](Book-Cover.png)
